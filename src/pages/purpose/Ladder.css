@@ -1,0 +1,32 @@
+:root {
+    --top-spacing: 40px;
+    --right-spacing: 18px;
+}
+/* Responsive Spacing Adjustments */
+@media (min-width: 768px) {
+    :root {
+        --top-spacing: 50px;
+        --right-spacing: 40px;
+    }
+}
+
+@media (min-width: 1024px) {
+    :root {
+        --top-spacing: 65px;
+        --right-spacing: 80px;
+    }
+}
+/* 
+@keyframes slideIn {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+} */
+/* Ensure all steps will use the animation */
+/* Transition effect for ladder steps */
+/* .ladder-step {
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+} */
