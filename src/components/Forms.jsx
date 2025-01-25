@@ -89,8 +89,8 @@ export default function Forms() {
                     <textarea
                         name="content"
                         className="p-1 bg-inherit"
-                        rows={4}
-                        cols={31}
+                        rows={2}
+                        cols={35}
                         value={formData.content}
                         onChange={handleChange}
                         required

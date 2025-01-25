@@ -58,7 +58,7 @@ const Home = () => {
                     <div className='flex flex-col p-5 md:w-[50%] justify-start text-start md:m-5 xl:m-10'>
                         <div className='text-[#25988B] text-4xl md:text-5xl xl:text-7xl font-extrabold'>OUR</div>
                         <div className='text-[#25988B] text-4xl md:text-5xl xl:text-7xl font-extrabold'>JOURNEY</div>
-                        <div className='text-[#25988B]  mt-8 xl:text-2xl '>
+                        <div className='text-[#25988B]  text-left mt-8 xl:text-2xl leading-relaxed'>
                             Tridala Pharmaceuticals has been dedicated to improving global health through innovative pharmaceutical solutions. From breakthrough treatments to a commitment to sustainability
                         </div>
                         <div>
