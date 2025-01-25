@@ -9,6 +9,7 @@ import { useNavigate } from "react-router-dom";
 import tablets from "./../../assets/tablet.png"
 import { FloatingWhatsApp } from 'react-floating-whatsapp'
 import BannerCarousel from '../../components/BannerCarousel.jsx';
+import { TbHtml } from 'react-icons/tb';
 
 const Home = () => {
     let navigate = useNavigate();
@@ -46,7 +47,7 @@ const Home = () => {
                         </div>
                         {/* <div className='font-extrabold'>Since <span className='text-[#25988B]'>2024</span></div> */}
                     </div>
-                    <div className='text-[#25988B]  mx-10 my-5 xl:text-2xl text-justify'>
+                    <div className='text-[#25988B]  mx-10 my-5 xl:text-2xl text-left'>
                         Tridala Pharmaceuticals has been dedicated to improving global health through innovative pharmaceutical solutions. From breakthrough treatments to a commitment to sustainability
                     </div>
                     <img src={tablets} className='' alt="Medicine image" />
