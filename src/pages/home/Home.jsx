@@ -13,7 +13,7 @@ import { TbHtml } from 'react-icons/tb';
 
 const Home = () => {
     let navigate = useNavigate();
-    const images = [poster0, poster1, poster2, poster3];
+    const images = [ poster1, poster2, poster3];
     return (
         <>
             <div className="font-lato w-full xl:h-[calc(100vh-80px)] bg-slate-200 flex flex-col justify-center text-center relative">

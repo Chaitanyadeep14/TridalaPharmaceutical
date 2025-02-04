@@ -48,7 +48,7 @@ export default function Team() {
   const personsRow2 = [
     {
       img: ceo,
-      description: "Graduated from Bangalore Medical College and then completed M.D in pediatrics at one of the top most institute of post graduate education and training centre in India.",
+      description: "Kumar drives our growth with 18+ years of pharma expertise, leading with strategic vision and innovation from his experience at Abbott, FDC Ltd., and Hetero Healthcare.",
       x: "https://twitter.com",
       instagram: "https://instagram.com",
       facebook: "https://facebook.com",

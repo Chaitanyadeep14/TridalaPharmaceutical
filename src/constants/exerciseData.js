@@ -158,7 +158,7 @@ export const exerciseData = [
     },
     {
         "name": "Light Cardio",
-        "img": "https://d18zdz9g6n5za7.cloudfront.net/video/1020/1020-1537-bored-easily-low-impact-cardio-a790.jpg",
+        "img": "https://i.pinimg.com/236x/58/f0/81/58f08113751b92f1b03432c992cbd7b3.jpg",
         "todo": [
             "March in Place: 2 minutes",
             "Heel Touches: 10 reps"
