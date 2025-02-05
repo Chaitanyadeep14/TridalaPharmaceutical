@@ -204,7 +204,7 @@ export const exerciseData = [
     },
     {
         "name": "Core & Lower Body",
-        "img": "https://s3assets.skimble.com/assets/2152968/skimble-workout-trainer-exercise-seated-leg-raises-5_full.jpg",
+        "img": "https://images.ctfassets.net/hjcv6wdwxsdz/4D9T1FtFcigfYkUcJQN6Us/0af000e0ff9ed6a502aca0e161650ea6/man-practicing-seated-leg-raise.png?w=800&h=588&q=50&fm=avif",
         "todo": [
             "Seated Leg Lifts: 5 reps per leg",
             "Side Leg Lifts: 5 reps per leg"
