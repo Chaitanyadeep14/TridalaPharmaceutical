@@ -1,7 +1,12 @@
 import poster1 from './../../assets/TridalaBanners/Home1.svg';
 import poster2 from './../../assets/TridalaBanners/Home2.svg';
-import poster3 from './../../assets/TridalaBanners/Home3.svg';
-import poster0 from './../../assets/TridalaBanners/republic.svg';
+import poster4 from './../../assets/TridalaBanners/Home4.svg';
+import poster5 from './../../assets/TridalaBanners/Home5.svg';
+import poster6 from './../../assets/TridalaBanners/Home6.svg';
+import poster7 from './../../assets/TridalaBanners/Home7.svg';
+import poster8 from './../../assets/TridalaBanners/Home8.svg';
+import poster9 from './../../assets/TridalaBanners/Home9.svg';
+import poster10 from './../../assets/TridalaBanners/Home10.svg';
 import homePageVideo from './../../assets/homePageVideo.mp4';
 import MissionValues from './MissionValues.jsx';
 import OurProducts from './OurProducts.jsx';
@@ -13,7 +18,7 @@ import { TbHtml } from 'react-icons/tb';
 
 const Home = () => {
     let navigate = useNavigate();
-    const images = [ poster1, poster2, poster3];
+    const images = [poster1, poster2,poster4,poster5,poster6,poster7,poster8,poster9,poster10];
     return (
         <>
             <div className="font-lato w-full xl:h-[calc(100vh-80px)] bg-slate-200 flex flex-col justify-center text-center relative">

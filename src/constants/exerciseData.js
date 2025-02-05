@@ -26,7 +26,7 @@ export const exerciseData = [
     },
     {
         "name": "Core Activation",
-        "img": "https://s3assets.skimble.com/assets/4733/skimble-workout-trainer-exercise-seated-leg-raises-1_iphone.jpg",
+        "img": "https://ts2.mm.bing.net/th?id=OIP.jQ7zhQi5C1J0XyehraOmPgHaHa&pid=15.1",
         "todo": [
             "Plank: Hold for 10 seconds",
             "Seated Leg Lifts: 5 reps per leg"
@@ -86,7 +86,7 @@ export const exerciseData = [
     },
     {
         "name": "Squats and Balance",
-        "img": "https://www.shutterstock.com/image-photo/exercise-class-people-squat-gym-260nw-2485947753.jpg",
+        "img": "https://ts3.mm.bing.net/th?id=OIP.DKY0BFPMlJIEhliPtjbgeAHaFj&pid=15.1",
         "todo": [
             "Bodyweight Squats: 10 reps",
             "Single-Leg Balance: 10 seconds per leg"
@@ -300,7 +300,7 @@ export const exerciseData = [
     },
     {
         "name": "Light Cardio",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9cHo2hkZSb0HmoYQWz6oePtPcv6L4PSr7Q&s",
+        "img": "https://th.bing.com/th/id/OIP.SnxnAdMHiWf1BZdXch72cgHaEK?w=312&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
         "todo": [
             "March in Place: 3 minutes",
             "Side-to-Side Steps: 10 reps"
